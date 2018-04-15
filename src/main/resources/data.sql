@@ -1,0 +1,10 @@
+insert into config (appcode, version, modified, document) values ('qqq', 1, CURRENT_TIMESTAMP(), '{"version":"1", "appCode":"qqq", "note":"qqq-1"}');
+insert into config (appcode, version, modified, document) values ('zzz', 1, CURRENT_TIMESTAMP(), '{"version":"1", "appCode":"zzz", "note":"zzz-1"}');
+insert into config (appcode, version, modified, document) values ('qqq', 2, CURRENT_TIMESTAMP(), '{"version":"2", "appCode":"qqq", "note":"qqq-2"}');
+insert into config (appcode, version, modified, document) values ('zzz', 2, CURRENT_TIMESTAMP(), '{"version":"2", "appCode":"zzz", "note":"zzz-2"}');
+insert into config (appcode, version, modified, document) values ('qqq', 3, CURRENT_TIMESTAMP(), '{"version":"3", "appCode":"qqq", "note":"qqq-3"}');
+insert into config (appcode, version, modified, document) values ('zzz', 3, CURRENT_TIMESTAMP(), '{"version":"3", "appCode":"zzz", "note":"zzz-3"}');
+insert into config (appcode, version, modified, document) values ('qqq', 4, CURRENT_TIMESTAMP(), '{"version":"4", "appCode":"qqq", "note":"qqq-4"}');
+insert into config (appcode, version, modified, document) values ('zzz', 4, CURRENT_TIMESTAMP(), '{"version":"4", "appCode":"zzz", "note":"zzz-4"}');
+insert into config (appcode, version, modified, document) values ('qqq', 5, CURRENT_TIMESTAMP(), '{"version":"5", "appCode":"qqq", "note":"qqq-5"}');
+insert into config (appcode, version, modified, document) values ('zzz', 5, CURRENT_TIMESTAMP(), '{"version":"5", "appCode":"zzz", "note":"zzz-5"}');
